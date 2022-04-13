@@ -10,3 +10,4 @@
 scores = ['A', 'C', 90, 75, 'C']
 print(scores[0])
 print(scores[1:3])
+print(scores[2:])
